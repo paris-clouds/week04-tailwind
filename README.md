@@ -41,6 +41,8 @@ Use Tailwind utilities to translate the supplied visual direction into a polishe
 
 Before submitting, replace the placeholders below with approximately three examples.
 
+Updated September 2026 by Paris Lopez Webworks Studio NVC
+
 ### Decision 1
 
 Used Tailwind Flexbox flex, flex-col, and flex-row.
@@ -58,7 +60,7 @@ Used it to fix layout design to show what client wanted the site to look like.
 
 ## Live Site
 
-Add your published GitHub Pages URL here.
+https://paris-clouds.github.io/week04-tailwind/
 
 ## Reminder
 
